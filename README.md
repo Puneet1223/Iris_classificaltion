@@ -4,6 +4,7 @@ A complete **Machine Learning project** that classifies Iris flowers into three 
 The project includes **data exploration**, **model training**, and a **Flask web application** for deployment.
 
 ---
+🔗 **Live Demo**: [http://13.217.11.59:8080]
 
 ## 🚀 Features
 - Clean **EDA (Exploratory Data Analysis)** with visualizations  
