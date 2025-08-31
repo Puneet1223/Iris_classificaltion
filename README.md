@@ -15,7 +15,7 @@ The project includes **data exploration**, **model training**, and a **Flask web
 ---
 
 ## 📂 Project Structure
-
+[Structure](assets/struct.png)
 
 ---
 
