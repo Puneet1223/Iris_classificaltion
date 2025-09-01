@@ -26,15 +26,22 @@ The project includes **data exploration**, **model training**, and a **Flask web
 ```bash
 git clone https://github.com/Puneet1223/Iris_classification.git
 cd Iris_classification
+```
 2️⃣ Create Virtual Environment
+```bash
 python3 -m venv venv
 source venv/bin/activate   # On Mac/Linux
+```
 3️⃣ Install Requirements
+```bash
 pip install -r requirements.txt
+```
 4️⃣ Run Locally
+```bash
 python3 app.py
 Then open your browser at:
 http://127.0.0.1:8080
+```
 📊 Models Used
 Logistic Regression
 Decision Tree
@@ -43,9 +50,11 @@ The best-performing model was chosen and saved as iris_model.pkl.
 🌐 Deployment
 Easily deployable on AWS EC2, Heroku, or Docker.
 Example:
+```bash
 nohup python3 app.py &
-will run the app in the background on a server.
 ```
+will run the app in the background on a server.
+
 📸 Demo Screenshot
  ![Demo](assets/iris.png)
 
