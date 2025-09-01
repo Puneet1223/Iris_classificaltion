@@ -39,7 +39,9 @@ pip install -r requirements.txt
 4️⃣ Run Locally
 ```bash
 python3 app.py
+```
 Then open your browser at:
+```bash
 http://127.0.0.1:8080
 ```
 📊 Models Used
